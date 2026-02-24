@@ -1,0 +1,315 @@
+.section{
+    width: 1920px;
+    height: 2301px;
+    background-color: #FFFFFF;
+}
+.heder-bj{ 
+    display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 58px;
+  left: 40%;
+  width: 100%; 
+}
+.logo{
+    justify-content: space-between;
+    top: 53px;
+    left: 15%;
+    vertical-align: middle;
+    display: flex;
+    position: fixed;
+}
+.div{
+    display: flex;
+    width: 154px;
+    height: 38px;
+    justify-content: space-around;
+    margin-right: 195px;
+}
+.Title{
+    display: flex;
+    font-size:25px;
+    color:#37393F;
+}
+.header{
+    display: flex;
+    color: #37393F;
+    width: 601px;
+    height: 65px;
+    font-size: 18px;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+.f-1{
+    color: #37393F;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.Get{
+     text-align: center;
+    padding-top: 20px;
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+}
+.f{
+    color: #FFFFFF;
+    font-size: 18px;
+    justify-content: space-between;
+}
+.section-3{
+    margin-top: 254px;
+    width: 1220px;
+    height: 510px;
+}
+.div-3{
+    width: 283px;
+    height: 86px;
+    text-align: center;
+    margin-left: 70%;
+}
+.work{
+    font-size:18px;
+    color: #37393F;
+}
+.Home{
+    padding-top: 13px;
+    font-size: 40px;
+    color: #37393F;
+}
+.hu-2{
+    width: 386px;
+    height: 383px;
+    text-align: center;
+    background-color:#F4F4F4 ;
+}
+.Make{ 
+    font-size: 25px;
+    color:#37393F ;
+    padding-top:  58px;
+    padding-bottom: 30px;
+}
+.paragrap{
+    margin-left: 30px;
+    padding-bottom: 30px;
+    width: 300px;
+    height: 78px;
+    font-size: 18px;
+    color: #37393F;
+}
+.test{
+    text-align: center;
+    color:#6B77E5;
+    font-size: 18px;
+}
+.Icon{
+    text-align: center;
+    background-color:#40DDB6;
+        border-radius: 50%;
+    width: 72px;
+    height: 72px;    
+}
+.section-6{
+    margin-left: 31px;
+    margin-right: 31px;
+    width:386px;
+    height: 383px;
+    text-align: center;
+    background-color:#F4F4F4;
+}
+.con{
+    font-size: 25px;
+    color:#37393F;
+    text-align: center;
+    padding-top: 58px;
+    padding-bottom: 30px;
+}
+.lev-3{
+    font-size: 18px;
+    color: #37393F;
+    width: 300px;
+    height: 78px;
+    margin-left: 30px;
+}
+.test{
+    font-size:18px;
+    color: #6B77E5;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Vector{
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: #6B77E5;
+}
+.div-5{
+    text-align: center;
+    width: 385px;
+    height: 383px;
+    background-color: #F4F4F4;
+}
+.Enjoy{
+    font-size: 25px;
+    color: #37393F;
+    padding-top: 58px;
+    margin-bottom: 30px;
+}
+.Leverage{
+    width: 300px;
+    height: 78px;
+    text-align: center;
+    margin-left: 30px;
+    color: #37393F;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.h4-4{
+    margin-bottom: 30px;
+    color: #6B77E5;
+    font-size: 18px;
+}
+.icon-2{
+    text-align: center;
+    width: 72px;
+    height: 72px;
+    background-color: #40DDB6;
+    border-radius: 50%;
+}
+.div-clas{
+    display: flex;
+    margin-left: 350px;
+}
+.c-3{
+    width:1920px;
+    height: 557px;
+    position: relative;
+    text-align: center;
+    margin-top: 60px;
+}
+.short-2{
+    width: 511px;
+    height: 270px;
+    position: absolute;
+    top: 20%;
+    right:40%;
+    margin-top: 3%;
+}
+.Our{
+    font-size:44px;
+    color: #37393F;
+    padding-top:16px ;
+    padding-bottom: 21px;
+}
+.coll{
+    font-size: 18px;
+    color: #37393F;
+    padding-bottom: 20px;
+}
+.admin{
+    background-color: #6B77E5;
+    border-radius: 60%;
+    width: 50px;
+    height: 50px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.ad-3{
+    padding-top: 5%;
+    width: 40px;
+    height: 40px;
+    padding-top: 15%;
+    padding-left: 5px;
+}
+.derb-3{
+    display: flex;
+    margin-left: 348px;
+    margin-top: 50px;
+}
+.our-1{
+    margin-top:108px ;
+    margin-bottom: 50px;
+    color: #37393F;
+    text-align: center;
+}
+.our-2{
+color: #37393F;
+font-size: 18px;
+}
+.Meet-1{
+    font-size: 40px;
+    color: #37393F;
+}
+.nattasha{
+    width: 386px;
+    height: 532px;
+    position: relative;
+}
+.nattasha-1{
+    padding-top: 30px;
+    text-align: center;
+    width: 300px;
+    height: 114px;
+    position: absolute;
+    top: 75%;
+    right: 15%;
+    background-color:#FFFFFF ;
+}
+.nattasha-3{
+    font-size: 25px;
+    color: #37393F;
+
+}
+.nattasha-4{
+    font-size: 18px;
+    color: #37393F;
+}
+.David{
+     width: 386px;
+    height: 532px;
+    position: relative;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.David-1{
+     padding-top: 30px;
+    text-align: center;
+    width: 300px;
+    height: 114px;
+    position: absolute;
+    top: 75%;
+    right: 15%;
+    background-color:#FFFFFF ;  
+}
+.David-2{
+    color: #37393F;
+    font-size: 25px;
+}
+.David-3{
+    font-size: 18px;
+    color: #37393F;
+}
+.Madeleine{
+     width: 386px;
+    height: 532px;
+    position: relative; 
+}
+.Madeleine-6{
+     padding-top: 30px;
+    text-align: center;
+    width: 300px;
+    height: 114px;
+    position: absolute;
+    top: 75%;
+    right: 15%;
+    background-color:#FFFFFF ;  
+}
+.Madeleine-5{
+     color: #37393F;
+    font-size: 25px;
+}  
+.Madeleine-7{
+     font-size: 18px;
+    color: #37393F;
+}
